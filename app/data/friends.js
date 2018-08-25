@@ -2,7 +2,7 @@
 var friends = [
     {
         "name": "Lindsey",
-        "photo": "https://cdn.pixabay.com/photo/2016/03/27/18/27/sky-1283446_1280.jpg",
+        "photo": "http://www.gstatic.com/tv/thumb/persons/13912/13912_v9_ba.jpg",
         "scores": [
             5,
             1,
@@ -18,7 +18,7 @@ var friends = [
     },
     {
         "name": "Link",
-        "photo": "https://cdn.pixabay.com/photo/2014/03/20/23/48/siberian-husky-291721_1280.jpg",
+        "photo": "http://www.naughtyhusky.com/images/article-images/husky-behaviour.jpg",
         "scores": [
             3,
             2,
@@ -34,7 +34,7 @@ var friends = [
     },
     {
         "name": "Justin",
-        "photo": "https://cdn.pixabay.com/photo/2016/03/30/19/04/siberian-husky-1291343_1280.jpg",
+        "photo": "https://vignette.wikia.nocookie.net/friends/images/f/f5/JoeyTribbiani.jpg/revision/latest/scale-to-width-down/350?cb=20180424154245",
         "scores": [
             5,
             4,
