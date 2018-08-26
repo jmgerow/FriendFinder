@@ -5,17 +5,17 @@ This appplication requires a user to take a 10-question survey answering questio
 ## Click take survey:
 
 
-![image](/images/main.png)
+![image](/images/main/PNG)
 
 ## Complete the survey:
 
 
-![image](/images/survey.png)
+![image](/images/survey.PNG)
 
 ## Meet your new best friend!:
 
 
-![image](/images/modal.png)
+![image](/images/modal.PNG)
 
 
 
