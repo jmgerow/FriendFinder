@@ -5,7 +5,7 @@ This appplication requires a user to take a 10-question survey answering questio
 ## Click take survey:
 
 
-![image](/images/main/PNG)
+![image](/images/main.PNG)
 
 ## Complete the survey:
 
